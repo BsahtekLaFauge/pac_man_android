@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PacMan</string>
+    <string name="dialog_loose_life_message">Vous avez perdu une vie</string>
+    <string name="dialog_loose_life_title">Perdu</string>
+    <string name="dialog_win_game_button_text">Niveau suivant</string>
+    <string name="dialog_win_game_message">Vous avez récupéré toutes les pac-gums, vous avez terminé ce niveau</string>
+    <string name="dialog_win_game_title">Victoire</string>
+    <string name="menu_sub_title">Choisissez une carte</string>
+    <string name="dialog_game_over_title">Jeu terminé</string>
+    <string name="dialog_game_over_message">Tu as perdu toutes tes vies</string>
+    <string name="dialog_game_over_button">Retour au menu</string>
+</resources>
